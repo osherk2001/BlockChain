@@ -2,6 +2,8 @@
 
 A complete JavaScript blockchain implementation featuring **Proof of Work**, **EIP-1559 fee market**, **Bloom filters**, **Merkle trees**, and **full node functionality**.
 
+> **🎯 Enhanced Version Available!** Check out [ENHANCED_README.md](./ENHANCED_README.md) for the latest implementation with **Light Wallets**, **SegWit**, **Coin Burning**, and **Advanced Features**!
+
 ## 🌟 Features
 
 ### Core Blockchain Features
